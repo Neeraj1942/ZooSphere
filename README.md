@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Group40
 Turtle Zoo Management System
 # Turtle Back Zoo Web App
