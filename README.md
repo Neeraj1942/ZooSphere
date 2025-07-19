@@ -1,7 +1,4 @@
-
-# Group40
-Turtle Zoo Management System
-# Turtle Back Zoo Web App
+# Turtle Back Zoo Management Project
 
 ## Introduction
 Introducing the Turtle Back Zoo Management System, a comprehensive web-based application designed to enhance the management and operations of Turtle Back Zoo. This project aims to provide efficient tools for managing various aspects of the zoo, including animal information, visitor interactions, staff scheduling, event planning, and administrative tasks.
@@ -40,8 +37,6 @@ The system on which the project will going to run should must have installed Mon
 2. Install dependencies with `npm install`.
 ### Usage
 1. Start the backend server with `npm run start`. The server will run at [http://localhost:4000](http://localhost:4000).
-2. There will be also the message of database connected on the terminal
-=======
+2. There will be also the message of database connected on the terminal.
 # Turtle-Back-Zoo-Management
-Turtle Back Zoo Management
->>>>>>> e0a366c81a130564da624fa27a33bd92c652869d
+
