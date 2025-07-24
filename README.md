@@ -1,4 +1,4 @@
-# Turtle Back Zoo Management Project
+# ZooSphere Management Project
 
 ## Introduction
 Introducing the Turtle Back Zoo Management System, a comprehensive web-based application designed to enhance the management and operations of Turtle Back Zoo. This project aims to provide efficient tools for managing various aspects of the zoo, including animal information, visitor interactions, staff scheduling, event planning, and administrative tasks.
